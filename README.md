@@ -50,7 +50,7 @@ At MSRA I lead the **recursive self-improvement (RSI)** research direction, span
 
 - **Area Chair:** NeurIPS, ICML, and ICLR
 - **Senior Program Committee Member:** AAAI
-- **Program Committee / Reviewer:** CVPR, ICCV, ECCV, SIGGRAPH, WAIC, BMVC, NeurIPS, ICLR, ICML, ACL, EMNLP, AISTATS, and WACV
+- **Program Committee / Reviewer:** CVPR, ICCV, ECCV, SIGGRAPH, WAIC, WAICA, BMVC, NeurIPS, ICLR, ICML, ACL, EMNLP, AISTATS, and WACV
 - **Journal Reviewer:** IJCV, IEEE TMM, and TMLR
 
 ## Collaboration
