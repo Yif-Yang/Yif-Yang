@@ -41,7 +41,7 @@ At MSRA I lead the **recursive self-improvement (RSI)** research direction, span
 - **Jul 2026 · Paper acceptances:** 5 papers accepted to **ECCV 2026**.
 - **Jul 2026 · Invited talk, "From Skill Understanding to Skill Optimization: Controllable Text-Space Training for Self-Evolving Agents":** presented at [CCF SPP](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651634476&idx=3&sn=5f7f21642eebc226d316059bf4959c74&chksm=bcf6f81b5e364578d58b8d270a881a6fde90e74fb5b0d614ee4b56f9e6ba99c09fa9defb53c5) and at [Zhiyuan College, Shanghai Jiao Tong University](https://mp.weixin.qq.com/s?__biz=MzUxNzE2NjUyMw==&mid=2247515373&idx=1&sn=8fa6090644f8b680d33350a747aff69d).
 - **Jun 2026 · Microsoft Research Asia Live Talk:** [An In-Depth Look at SkillOpt](https://www.zhihu.com/pin/2050730898459571955).
-- **Jun 2026 · China Agent Conference:** gave an invited talk and [chaired the technical workshop on Agent Skills](https://baijiahao.baidu.com/s?id=1868887428155963787).
+- **Jun 2026 · China Agent Conference:** gave an invited talk and chaired the [technical workshop on Agent Skills](https://baijiahao.baidu.com/s?id=1868887428155963787).
 - **Jun 2026 · Galaxy Workshop:** invited talk, ["How Do Agent Skills Self-Evolve?"](https://www.xiaohongshu.com/explore/6a1fdfa0000000002201a563).
 - **Jun 2026 · Paper acceptances:** 6 papers accepted to **ICML 2026**.
 - **Jan 2026 · LLM2CLIP:** received the [AAAI 2026 Outstanding Paper Award](https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/) ([media coverage](https://zhuanlan.zhihu.com/p/1997722412821787490)), and presented in a [BAAI Community live talk](https://blog.csdn.net/BAAIBeijing/article/details/157454244) on the frontiers of multimodal representation.
