@@ -9,7 +9,7 @@ Vision Computing Group · Shanghai
 
 </div>
 
-I work at the intersection of **self-evolving agents**, **multimodal foundation models**, and **visual content generation** — connecting research ideas to open-source systems and to products people actually use.
+My research focuses on **self-evolving AI systems**, **general-purpose agents**, and **foundation model post-training**, with a particular emphasis on bridging research innovation, open-source development, and real-world deployment.
 
 At MSRA I lead the **recursive self-improvement (RSI)** research direction, spanning agent harnesses, tasks and rewards, data pipelines, and model training, and extending toward **AI4AI**: using AI systems to improve AI research and development itself. I am also a long-term contributor to Microsoft's first-party multimodal models, including **Phi-3.5 Vision** and **Phi-4-mini**.
 
