@@ -7,6 +7,9 @@ Vision Computing Group · Shanghai
 
 [![Microsoft Research](https://img.shields.io/badge/Microsoft_Research-Profile-5E5E5E?style=flat-square&logo=microsoft&logoColor=white)](https://www.microsoft.com/en-us/research/people/yifanyang/) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=u6QK7AkAAAAJ) [![Email](https://img.shields.io/badge/Email-yifyang29%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yifyang29@gmail.com)
 
+
+<a href="https://www.credly.com/badges/d9fd6cd8-e310-4e9b-9f63-ed7a3383fc85"><img src="https://images.credly.com/images/c07b41b9-ecce-4abb-8c72-41577d63b537/twitter_thumb_201604_blob" width="76" alt="Microsoft Global Hackathon 2026 1st Place Executive Challenge Winner badge"></a>&nbsp;<a href="https://www.credly.com/badges/0d80e26a-55ac-4877-ac84-b300b035f39c"><img src="https://images.credly.com/images/887fc783-850a-4d85-b806-cd6b5a996779/twitter_thumb_201604_blob" width="76" alt="Microsoft Global Hackathon 2026 Award Winner badge"></a>
+
 </div>
 
 My research focuses on **self-evolving AI systems**, **general-purpose agents**, and **foundation model post-training**, with a particular emphasis on bridging research innovation, open-source development, and real-world deployment.
@@ -24,14 +27,15 @@ I received the **AAAI 2026 Outstanding Paper Award** and the **WAIC 2026 Youth O
 ### Self-evolving agents
 
 - **[SkillOpt](https://github.com/microsoft/SkillOpt)** — Trains reusable natural-language skills for frozen LLM agents through trajectory-driven optimization and validation-gated updates. Best or tied-best across **all 52 evaluated settings**. [![Stars](https://img.shields.io/github/stars/microsoft/SkillOpt?style=flat-square&label=stars)](https://github.com/microsoft/SkillOpt/stargazers)<br>
-  **Award:** 2026 Microsoft Global Hackathon — Executive Challenges Winner Award.
+  **NeurIPS 2026.** **Award:** 2026 Microsoft Global Hackathon — Executive Challenges Winner Award ([Credly badge](https://www.credly.com/badges/d9fd6cd8-e310-4e9b-9f63-ed7a3383fc85)).
 - **[Resource2Skill](https://github.com/microsoft/Resource2Skill)** — Distills tutorials, videos, code, and other human-created multimodal resources into reusable, executable agent skills. [![Stars](https://img.shields.io/github/stars/microsoft/Resource2Skill?style=flat-square&label=stars)](https://github.com/microsoft/Resource2Skill/stargazers)<br>
-  **Awards:** 2026 Microsoft Global Hackathon — Greater China Region Outstanding Project Award; Shanghai Outstanding Project Award.
-- **[SkillLens](https://github.com/microsoft/SkillLens)** — A systematic study of how model-generated skills are produced, consumed, and reused across the skill lifecycle. [![Stars](https://img.shields.io/github/stars/microsoft/SkillLens?style=flat-square&label=stars)](https://github.com/microsoft/SkillLens/stargazers)
+  **Awards:** 2026 Microsoft Global Hackathon — Greater China Region Outstanding Project Award; Shanghai Outstanding Project Award ([Credly badge](https://www.credly.com/badges/0d80e26a-55ac-4877-ac84-b300b035f39c)).
+- **[SkillLens](https://github.com/microsoft/SkillLens)** — A systematic study of how model-generated skills are produced, consumed, and reused across the skill lifecycle. **NeurIPS 2026.** [![Stars](https://img.shields.io/github/stars/microsoft/SkillLens?style=flat-square&label=stars)](https://github.com/microsoft/SkillLens/stargazers)
 
 ### Multimodal learning and generation
 
 - **[AesCode](https://github.com/microsoft/AesCode)** — Generates editable, verifiable visual artifacts as code, using image guidance and decoupled cross-modal rewards. **arXiv preprint, 2026.** [Paper](https://arxiv.org/abs/2610.18860) [![Stars](https://img.shields.io/github/stars/microsoft/AesCode?style=flat-square&label=stars)](https://github.com/microsoft/AesCode/stargazers)
+- **[ReDeck](https://github.com/microsoft/ReDeck)** — Step-level, render-grounded refinement for document-to-slide generation: every atomic edit is followed by renderer feedback. **arXiv preprint, 2026.** [Paper](https://arxiv.org/abs/2609.00194) [![Stars](https://img.shields.io/github/stars/microsoft/ReDeck?style=flat-square&label=stars)](https://github.com/microsoft/ReDeck/stargazers)
 - **[LLM2CLIP](https://github.com/microsoft/LLM2CLIP)** — Uses large language models as textual teachers to improve vision-language representation learning. **[AAAI 2026 Outstanding Paper Award](https://aaai.org/about-aaai/aaai-awards/aaai-conference-paper-awards-and-recognition/)** and **WAIC 2026 Youth Outstanding Paper Nomination Award**; **[300K+ Hugging Face downloads](https://huggingface.co/collections/microsoft/llm2clip-672323a266173cfa40b32d4c)**, and the technique now serves as the visual-pretraining approach for Phi-4-mini. [![Stars](https://img.shields.io/github/stars/microsoft/LLM2CLIP?style=flat-square&label=stars)](https://github.com/microsoft/LLM2CLIP/stargazers)
 - **[World-R1](https://github.com/microsoft/World-R1)** — Reinforces 3D constraints in text-to-video generation with camera-aware initialization and 3D-aware rewards. **ICML 2026.** [![Stars](https://img.shields.io/github/stars/microsoft/World-R1?style=flat-square&label=stars)](https://github.com/microsoft/World-R1/stargazers)
 - **[Latent Spatial Memory](https://github.com/microsoft/LatentSpatialMemory)** — Persistent latent 3D scene memory for video world models: **10.57× faster generation** and **55× lower 3D-cache memory**. [![Stars](https://img.shields.io/github/stars/microsoft/LatentSpatialMemory?style=flat-square&label=stars)](https://github.com/microsoft/LatentSpatialMemory/stargazers)
@@ -58,8 +62,8 @@ I received the **AAAI 2026 Outstanding Paper Award** and the **WAIC 2026 Youth O
 
 - **Area Chair:** NeurIPS, ICML, ICLR, and ACL Rolling Review
 - **Senior Program Committee Member:** AAAI
-- **Program Committee / Reviewer:** CVPR, ICCV, ECCV, SIGGRAPH, WAICA, BMVC, NeurIPS, ICLR, ICML, ACL, EMNLP, AISTATS, and WACV
-- **Journal Reviewer:** IJCV, IEEE TMM, TMLR, and Artificial Intelligence
+- **Program Committee / Reviewer:** CVPR, ICCV, ECCV, SIGGRAPH, WAICA, BMVC, NeurIPS, ICLR, ICML, IJCAI, ACL, EMNLP, AISTATS, and WACV
+- **Journal Reviewer:** IJCV, IEEE TMM, TMLR, and Artificial Intelligence (AIJ)
 
 ## Collaboration
 
