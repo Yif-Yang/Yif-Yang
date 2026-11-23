@@ -48,6 +48,7 @@ I received the **AAAI 2026 Outstanding Paper Award** and the **WAIC 2026 Youth O
 
 ## News, talks & interviews
 
+- **Nov 2026 · Paper acceptance:** [ReasonGen-R1](https://arxiv.org/abs/2505.24875) accepted to **TMLR 2026**.
 - **Oct 2026 · Paper acceptances:** 4 papers accepted to **NeurIPS 2026**.
 - **Aug 2026 · Paper acceptances:** 2 papers accepted to **EMNLP 2026**.
 - **Jul 2026 · Paper acceptances:** 5 papers accepted to **ECCV 2026**.
