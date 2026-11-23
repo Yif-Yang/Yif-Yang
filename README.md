@@ -20,7 +20,7 @@ At MSRA I lead the **recursive self-improvement (RSI)** research direction, span
 
 I serve as an Area Chair for NeurIPS, ICML, ICLR, and ACL Rolling Review, and as a Senior Program Committee Member for AAAI.
 
-I received the **AAAI 2026 Outstanding Paper Award** and the **WAIC 2026 Youth Outstanding Paper Nomination Award** for **[LLM2CLIP](https://github.com/microsoft/LLM2CLIP)**. I lead the open-source project **[SkillOpt](https://github.com/microsoft/SkillOpt)**, which has **18K+ GitHub stars** and won the **Executive Challenges Winner Award** at the **2026 Microsoft Global Hackathon**. My project **[Resource2Skill](https://github.com/microsoft/Resource2Skill)** received the **Greater China Region Outstanding Project Award** and the **Shanghai Outstanding Project Award** at the same event.
+I received the **AAAI 2026 Outstanding Paper Award** and the **WAIC 2026 Youth Outstanding Paper Nomination Award** for **[LLM2CLIP](https://github.com/microsoft/LLM2CLIP)**. I lead the open-source project **[SkillOpt](https://github.com/microsoft/SkillOpt)**, which has **19K+ GitHub stars** and won the **Executive Challenges Winner Award** at the **2026 Microsoft Global Hackathon**. My project **[Resource2Skill](https://github.com/microsoft/Resource2Skill)** received the **Greater China Region Outstanding Project Award** and the **Shanghai Outstanding Project Award** at the same event.
 
 ## Featured open-source work
 
